@@ -3,7 +3,7 @@
 
 
 # Sobre o projeto
-Site de notas feito com o micro framework Flask ao invés de criar com Django. Alternativa interessante para agilizar a criação de um website feito com Python.Créditos ao canal Tech with Tim. 
+Site de notas feito com o micro framework Flask ao invés de criar com Django. Alternativa interessante para agilizar a criação de um website feito com Python. Foi feito com API Rest e crédito ao canal Tech with Tim. 
 
 # Tecnologias utilizadas
 ## Front end
